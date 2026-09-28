@@ -190,7 +190,7 @@ Retail-Customer-Intelligence/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/NagendraSeelam/Retail-Customer-Intelligence>
 ```
 
 Move into the project directory:
